@@ -1,0 +1,13 @@
+
+
+Git commands:-
+
+ git config --list
+ git config global user.email"vnvvn"
+ git config global user.name"nbdsnd"
+ git init
+ git add .
+ git commit -m "Initial commit"
+ git remote add origin <remote repository URL>
+ git push origin master
+ git push origin master --force
